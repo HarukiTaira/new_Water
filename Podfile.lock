@@ -1,0 +1,36 @@
+PODS:
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - Eureka (5.2.1)
+  - Realm (5.3.2):
+    - Realm/Headers (= 5.3.2)
+  - Realm/Headers (5.3.2)
+  - RealmSwift (5.3.2):
+    - Realm (= 5.3.2)
+  - WaveAnimationView (1.0.2)
+
+DEPENDENCIES:
+  - Charts
+  - Eureka
+  - RealmSwift
+  - WaveAnimationView
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - Eureka
+    - Realm
+    - RealmSwift
+    - WaveAnimationView
+
+SPEC CHECKSUMS:
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  Eureka: c883105488e05bc65539f583246ecf9657cabbfe
+  Realm: c6794276ca8884808ba168a22f9d71362b170b85
+  RealmSwift: 42ec6cec3170aeeda407f797f07268a7d055ebc7
+  WaveAnimationView: 1ffdf3184884eb3270f4b19cc2e69893fec16b9d
+
+PODFILE CHECKSUM: 3d9c86d984ca39d9727ea72146b9ee24c81c2b0c
+
+COCOAPODS: 1.8.4
